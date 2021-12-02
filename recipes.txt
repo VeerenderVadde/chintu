@@ -6,4 +6,9 @@ Kheer
 Pasta
 Chicken Fruy
 
+Beans
+Pizza
+
 Thank you :)
+
+final
